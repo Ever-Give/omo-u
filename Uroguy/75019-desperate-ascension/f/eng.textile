@@ -6,8 +6,6 @@ Author: Uroguy
 
 Summary: A woman ends up stuck in her apartment elevator. She makes repeated attempts to call for help but to no avail. Eventually, she is unable to hold it and has an accident. Following her accident, the elevator starts working and ascends to her floor.
 
-Title: Desperate Ascension
-
 Content:
 
 - need to urinate
