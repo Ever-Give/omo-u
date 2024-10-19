@@ -4,10 +4,6 @@ Author: Unbeknownst
 
 *000*2022-07-05 05:52
 
-Starcraft:
-
-War Drenched Stars
-
 Author's Note:
 
 I'm still working on my game and have made significant progress towards all the plugins I need for it, mostly relating to implementing and displaying custom parameters. Either way, it's a work in progress and won't be coming out any time soon.
