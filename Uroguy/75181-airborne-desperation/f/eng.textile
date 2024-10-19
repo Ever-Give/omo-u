@@ -6,8 +6,6 @@ Author: Uroguy
 
 Summary: Two young women were facing obstacles to using the only functioning bathroom on board their plane flight. Making things worse was the plumbing issue that rendered the only bathroom still functioning occurred in the middle of the flight. Plus, the flight isn't able to land on schedule for repairs and departure. Do the two women make it or fail to keep themselves dry?
 
-Title: Airborne Desperation
-
 Content:
 
 - plane flight
