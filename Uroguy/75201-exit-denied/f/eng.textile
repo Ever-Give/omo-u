@@ -6,8 +6,6 @@ Author: Uroguy
 
 Summary: A female passenger, desperate for a public restroom, is unable to exit her train car.
 
-Title: Exit Denied
-
 Content:
 
 - desperate to urinate
